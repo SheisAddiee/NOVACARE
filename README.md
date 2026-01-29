@@ -16,3 +16,6 @@ for health risk prediction.
 ```bash
 pip install -r requirements.txt
 python app.py
+# NOVACARE
+
+Frontend for the Novacare medical application.

@@ -1,0 +1,20 @@
+{
+  "Chest_Pain": "0=no, 1=yes",
+  "Shortness_of_Breath": "0=no, 1=yes",
+  "Fatigue": "0=no, 1=yes",
+  "Palpitations": "0=no, 1=yes",
+  "Dizziness": "0=no, 1=yes",
+  "Swelling": "0=no, 1=yes",
+  "High_BP": "0=no, 1=yes",
+  "Pain_Arms_Jaw_Back": "0=no, 1=yes",
+  "Cold_Sweats_Nausea": "0=no, 1=yes",
+  "High_Cholesterol": "0=no, 1=yes",
+  "Diabetes": "0=no, 1=yes",
+  "Smoking": "0=no, 1=yes",
+  "Obesity": "0=no, 1=yes",
+  "Sedentary_Lifestyle": "0=no, 1=yes",
+  "Family_History": "0=no, 1=yes",
+  "Chronic_Stress": "0=no, 1=yes",
+  "Gender": "0=female, 1=male",
+  "Age": "years"
+}
